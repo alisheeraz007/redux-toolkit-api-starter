@@ -12,8 +12,8 @@ This project provides a boilerplate setup for React applications, featuring Redu
 - **Customizable**: Easily customizable to fit specific project requirements and preferences.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
+1. Clone this repository: `git clone https://github.com/alisheeraz007/redux-toolkit-api-starter.git`
+2. Navigate to the project directory: `cd redux-toolkit-api-starter`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
